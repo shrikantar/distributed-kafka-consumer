@@ -4,7 +4,6 @@ import java.math.BigDecimal;
 import java.time.LocalDate;
 
 public class Invoice {
-
     private String invoiceNumber;
     private LocalDate dueDate;
     private String vendorCode;
